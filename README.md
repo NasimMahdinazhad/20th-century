@@ -31,7 +31,9 @@ _● What patterns emerge when analyzing inter-country relationships as a networ
 ## 🚀 Fast Facts
 
 Tools: Python (Pandas, BeautifulSoup, NetworkX, spaCy/NLTK, Matplotlib)
+
 Focus: Web scraping, text mining, NLP, network analysis, visualization
+
 Data: Wikipedia page on 20th-century history
 
 ## 🧼 Data & Preprocessing
