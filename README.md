@@ -1,6 +1,6 @@
 # Twentieth-Century Geopolitical Network Analysis
 
-## Mapping Relationships. Visualizing History. Informing Policy.
+## Mapping Relationships
 
 ## Description
 
